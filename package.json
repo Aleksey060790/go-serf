@@ -9,6 +9,7 @@
   "author": "Aleksey Senchenko",
   "license": "ISC",
   "devDependencies": {
+    "animate.css": "^4.1.0",
     "browser-sync": "^2.26.12",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
